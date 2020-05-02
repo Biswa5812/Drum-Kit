@@ -3,4 +3,4 @@ Make this quarantine instrumental!!!.
 
 > Play and practice drums, a simple tool for engaing the artist in you this quarantine
 
-<img src = "bis.PNG" width = "400">
+<img src = "bis.PNG" width = "600">
